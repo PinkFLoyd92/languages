@@ -1,17 +1,30 @@
 * Basics
 ** Vocabulary
-   | NAME (INDONESIAN) | MEANING |
-   | Dua puluh         | 20      |
-   | Dia               | he/she  |
-   | merah             | red     |
-   | Berapa umur       |         |
+*** General
+    | NAME (INDONESIAN) | MEANING |
+    | Dua puluh         | 20      |
+    | Dia               | he/she  |
+    | Berapa            | How     |
+    | susu              | milk    |
+    | air               | water   |
+    | apel              | apple   |
+    | jeruk             | orange  |
+    | minum             | drink   |
+    | punya             | have    |
+    | makan             | eat     |
+    | dan               | and     |
+    | mau               | want    |
+
+*** Colors
+   | hitam | black |
+   | merah | red   |
+   | putih | white |
+** 
+
 ** Phrases
-   | Name             | Value             |
-   | Berapa umur Andi | How old is Andi   |
-   | Nama Saya Andres | My name is Andres |
-   | Saya Andres      | I am Andres       |
-   |                  |                   |
-   |                  |                   |
-   |                  |                   |
-   |                  |                   |
-   - 20
+   | Name                    | Value             |
+   | Berapa umur Andi        | How old is Andi   |
+   | Nama Saya Andres        | My name is Andres |
+   | Saya Andres             | I am Andres       |
+   | Umur saya *puluh* tahun | I am 10 years old |
+   | Saya *dua puluh* tahun  | I am 20 years old |
