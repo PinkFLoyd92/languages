@@ -1,0 +1,17 @@
+* Basics
+** Vocabulary
+   | NAME (INDONESIAN) | MEANING |
+   | Dua puluh         | 20      |
+   | Dia               | he/she  |
+   | merah             | red     |
+   | Berapa umur       |         |
+** Phrases
+   | Name             | Value             |
+   | Berapa umur Andi | How old is Andi   |
+   | Nama Saya Andres | My name is Andres |
+   | Saya Andres      | I am Andres       |
+   |                  |                   |
+   |                  |                   |
+   |                  |                   |
+   |                  |                   |
+   - 20
