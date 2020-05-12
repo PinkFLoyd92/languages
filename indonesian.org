@@ -1,4 +1,4 @@
-* Basics
+* [<2020-05-10 dom>] Learning
 ** Vocabulary
 *** General
     | NAME (INDONESIAN) | MEANING |
@@ -19,8 +19,6 @@
    | hitam | black |
    | merah | red   |
    | putih | white |
-** 
-
 ** Phrases
    | Name                    | Value             |
    | Berapa umur Andi        | How old is Andi   |
@@ -28,3 +26,18 @@
    | Saya Andres             | I am Andres       |
    | Umur saya *puluh* tahun | I am 10 years old |
    | Saya *dua puluh* tahun  | I am 20 years old |
+
+* [<2020-05-11 lun>]
+** Vocabulary
+*** General
+    | NAME (INDONESIAN) | MEANING              |
+    | siapa             | who/what to a person |
+    | dari              | from                 |
+    | umur              | age *context*        |
+    | where             | mana                 |
+
+
+** Phrases
+   | Name            | Value               |
+   | Halo, apa kabar | How are you         |
+   | Kamu dari mana? | Where are you from? |
